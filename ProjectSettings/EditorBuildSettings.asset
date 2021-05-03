@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Intro_cut.unity
+    guid: 641bdb47d7b9ae042a15302a126bbc6f
+  - enabled: 0
+    path: Assets/Scenes/Level-one.unity
+    guid: 7968d06b461a40847837dc8f16d359e1
+  - enabled: 0
+    path: Assets/Scenes/1-2cut.unity
+    guid: fb116fc1417a76d4d962be60132014ae
+  - enabled: 0
+    path: Assets/Scenes/level-two.unity
+    guid: 5e9a898c05ff9ca418b6d4895100f2da
+  - enabled: 1
+    path: Assets/Scenes/2-3cut.unity
+    guid: bd082561782d4c849ae44d8d06b85d73
+  - enabled: 1
+    path: Assets/Scenes/Level-three.unity
+    guid: ece768973160ff642b7198da99c7556f
+  - enabled: 1
+    path: Assets/Scenes/end_cut.unity
+    guid: 51cf359be02d3f143a0fd949396ae89e
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 74bc9d42c64eb9d40bcd9bde0e36d8b0,
+      type: 2}
